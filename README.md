@@ -14,6 +14,6 @@ This program is a Boggle Solver to find the valid words in the user defined 4x4 
  For the Design Patterns I applied the following:
  1. Creational Design Pattern - Prototype Design Pattern
  2. Structural Design Pattern - Composite Design Pattern
- 3. Behavioral Design Pattern - Iterator Pattern
+ 3. Behavioral Design Pattern - Iterator Pattern & Command Pattern
 
 
